@@ -6,8 +6,6 @@
 #     print("a is smaller 100")
 # else:
 #     print("a is 100")
-from fileinput import close
-
 
 #Theme 3:
 # names=(1,2,3,4,"Hello", 3,"5")
